@@ -1,0 +1,23 @@
+{
+  "name": "front-end-pro-hillel-2023-homeworks",
+  "version": "1.0.0",
+  "description": "Hillel homeworks",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeDee111SS/Front-End-Pro-Hillel-2023-homeworks.git"
+  },
+  "keywords": [
+    "hw",
+    "git"
+  ],
+  "author": "Dmitrij Duvanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeDee111SS/Front-End-Pro-Hillel-2023-homeworks/issues"
+  },
+  "homepage": "https://github.com/DeeDee111SS/Front-End-Pro-Hillel-2023-homeworks#readme"
+}
